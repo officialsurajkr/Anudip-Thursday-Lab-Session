@@ -25,7 +25,7 @@ public class StarPatterEx
 				System.out.print(" ");
 			}
 			
-			//if(i%2!=0)
+			
 			for(k=1 ; k<(i*2) ; k++)
 			{
 				System.out.print("*");
